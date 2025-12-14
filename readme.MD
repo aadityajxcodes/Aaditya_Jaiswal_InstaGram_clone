@@ -1,6 +1,10 @@
 Instagram Clone Project by AADITYA JAISWAL 
 A full-stack social media platform inspired by Instagram, built using the MERN stack (MongoDB, Express, React, Node.js). This project allows users to create posts, follow others, like/dislike content, comment, and personalize their profiles.
+
+
 Installation
+
+
 Backend
 1.	Navigate to the backend folder:
              cd backend
@@ -14,8 +18,12 @@ Npm start
 2.	Install dependencies:
               npm install
 3.	Start the React app:
-              npm star
+              npm start
+
+
 Features
+
+
 User Authentication
 •	Users can sign up and log in securely.
 •	Token-based authentication to protect private routes.
