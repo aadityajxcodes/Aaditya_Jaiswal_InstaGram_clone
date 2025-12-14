@@ -1,4 +1,6 @@
 Instagram Clone Project by AADITYA JAISWAL 
+
+
 A full-stack social media platform inspired by Instagram, built using the MERN stack (MongoDB, Express, React, Node.js). This project allows users to create posts, follow others, like/dislike content, comment, and personalize their profiles.
 
 
